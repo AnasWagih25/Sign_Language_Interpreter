@@ -46,7 +46,7 @@ project/
 
 ## Model Architecture
 
-- **Input**: 28x28 grayscale images (representing hand gestures)  
+- **Input**: 28x28 images (representing hand gestures)  
 - **Convolutional Layers**:  
   - Conv2D with 32 filters (3x3)  
   - Conv2D with 64 filters (3x3)  
